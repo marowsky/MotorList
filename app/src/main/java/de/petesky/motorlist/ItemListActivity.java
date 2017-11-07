@@ -20,7 +20,7 @@ import java.util.List;
 
 public class ItemListActivity extends AppCompatActivity {
 
-    private boolean mTwoPane;
+    //private boolean mTwoPane;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
