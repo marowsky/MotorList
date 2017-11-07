@@ -6,7 +6,7 @@
     android:name="de.petesky.myapplication.ItemListFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:fastScrollAutoHide="false"
+    app:fastScrollAutoHide="true"
     app:fastScrollAutoHideDelay="1500"
     app:fastScrollPopupBackgroundSize="88dp"
     app:fastScrollPopupBgColor="@color/colorAccent"
