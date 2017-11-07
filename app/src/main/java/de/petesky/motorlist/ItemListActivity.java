@@ -14,7 +14,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView;
 import de.petesky.motorlist.dummy.DummyContent;
 import java.util.List;
