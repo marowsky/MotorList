@@ -26,7 +26,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![test](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
+
 [Link](url) and ![Image](src)
 ```
 
