@@ -1,6 +1,6 @@
 If you want to try out the app first you can download it from the Play Store:
 
-<a href="https://play.google.com/store/apps/details?id=de.petesky.motorlist" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="323" height="125"
-/></a>
+<a href="https://play.google.com/store/apps/details?id=de.petesky.motorlist" target="_blank">
+<img src="https://storage.googleapis.com/support-kms-prod/9DB3D190FD6DC8155EEDBCDEB4942128BE6B"/></a>
 
 You can use the [editor on GitHub](https://github.com/marowsky/MotorList/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
