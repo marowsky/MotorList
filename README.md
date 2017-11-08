@@ -1,3 +1,7 @@
+If you want to try out the app first you can download it from the Play Store:
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marowsky/MotorList/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -22,7 +26,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 [Link](url) and ![Image](src)
 ```
 
